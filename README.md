@@ -19,3 +19,5 @@ The main objective of this task was to perform data cleaning and exploratory dat
 ## Conclusion
 The data cleaning and exploratory data analysis performed on the Titanic dataset provided valuable insights into the factors influencing survival rates during the Titanic disaster. This analysis contributes to a better understanding of historical events and showcases the application of data science techniques in deriving meaningful insights from data.
 
+Thank you for reviewing my internship task submission!
+
